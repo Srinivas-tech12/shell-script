@@ -1,4 +1,7 @@
 #!/bin/bash 
 
-echo "Ramesh: Hello Suresh, Good Moring"
-echo "Suresh: Hi Ramesh, Very Good Moring"
+PERSION1=Kiran
+PERSION2=Sai
+
+echo "$PERSION1: Hello $PERSION2, Good Moring"
+echo "$PERSION2: Hi $PERSION1, Very Good Moring"
