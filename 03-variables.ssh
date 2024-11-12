@@ -1,7 +1,8 @@
 #!/bin/bash 
 
-PERSION1=Kiran
-PERSION2=Sai
+PERSON1=Sai
+PERSON2=Kiran
 
-echo "$PERSION1: Hello $PERSION2, Good Moring"
-echo "$PERSION2: Hi $PERSION1, Very Good Moring"
+echo "$PERSON1: Hello $PERSON2, Good Moring"
+echo "$PERSON2: Hi $PERSON1, Very Good Moring"
+hello world 
